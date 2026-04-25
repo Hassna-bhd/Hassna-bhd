@@ -1,7 +1,6 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%">
 
-## Hi there (https://media.giphy.com/media/hvRJ6VnFX15V6p00nU/giphy.gif)
-
+## Hi there <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400">
 
 # 💫 About Me:
 📫 I’m currently Full-Stack Developer <br>📫 How to reach me: You may follow me on Linkedin
