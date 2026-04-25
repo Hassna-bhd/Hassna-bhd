@@ -1,4 +1,4 @@
-## Hi there ![Hi](https://giphy.com)👋
+## Hi there ![Hi](https://media.giphy.com/media/hvRJ6VnFX15V6p00nU/giphy.gif)
 
 
 # 💫 About Me:
